@@ -1,0 +1,15 @@
+{
+	id: "ab0ad833-40b2-3bec-aecb-bf02abdd6647"
+	type: "player"
+	player_name: "ZebanyanDeluxe"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "ZebanyanDeluxe"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

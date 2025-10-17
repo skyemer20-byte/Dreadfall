@@ -1,0 +1,15 @@
+{
+	id: "1f95b633-37a2-321c-bebc-8ea5a23e37a8"
+	type: "player"
+	player_name: "RaidenOkita"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "RaidenOkita"
+		"ftbteams:description": ""
+		"ftbteams:color": "#76FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

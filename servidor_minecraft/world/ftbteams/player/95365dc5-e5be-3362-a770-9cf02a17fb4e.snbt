@@ -1,0 +1,15 @@
+{
+	id: "95365dc5-e5be-3362-a770-9cf02a17fb4e"
+	type: "player"
+	player_name: "asura"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "asura"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD359"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

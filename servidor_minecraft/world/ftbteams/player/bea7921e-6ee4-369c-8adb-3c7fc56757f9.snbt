@@ -1,0 +1,15 @@
+{
+	id: "bea7921e-6ee4-369c-8adb-3c7fc56757f9"
+	type: "player"
+	player_name: "Ayato21VT"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Ayato21VT"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9559FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,328 @@
+{
+  "cosmeticarmoursmod:cosmetic_armours_achievement": {
+    "criteria": {
+      "cosmetic_armours_achievement_0": "2025-10-14 00:57:47 +0000"
+    },
+    "done": true
+  },
+  "cosmeticarmoursmod:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-10-14 00:57:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-10-14 00:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2025-10-14 01:16:56 +0000",
+      "minecraft:birch_forest": "2025-10-14 04:08:06 +0000",
+      "minecraft:beach": "2025-10-14 01:18:27 +0000",
+      "minecraft:river": "2025-10-14 04:12:25 +0000",
+      "minecraft:stony_shore": "2025-10-14 03:02:25 +0000",
+      "minecraft:dripstone_caves": "2025-10-17 05:57:45 +0000",
+      "minecraft:forest": "2025-10-14 04:10:27 +0000",
+      "minecraft:ocean": "2025-10-14 01:16:21 +0000",
+      "minecraft:old_growth_birch_forest": "2025-10-14 00:57:49 +0000",
+      "minecraft:savanna": "2025-10-17 06:01:18 +0000",
+      "minecraft:plains": "2025-10-14 04:22:58 +0000"
+    },
+    "done": false
+  },
+  "endofherobrine:story/root": {
+    "criteria": {
+      "requirement": "2025-10-14 00:58:50 +0000"
+    },
+    "done": true
+  },
+  "apollyon:apollyon": {
+    "criteria": {
+      "apollyon": "2025-10-14 01:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-10-14 01:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-10-14 01:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-10-17 06:19:25 +0000",
+      "minecraft:skeleton": "2025-10-14 04:13:48 +0000",
+      "minecraft:spider": "2025-10-14 01:20:45 +0000",
+      "minecraft:creeper": "2025-10-17 03:55:20 +0000",
+      "minecraft:zombie": "2025-10-14 01:20:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-10-14 01:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-10-14 01:48:11 +0000",
+      "cooked_mutton": "2025-10-14 01:56:37 +0000",
+      "cooked_beef": "2025-10-14 03:20:46 +0000",
+      "beef": "2025-10-14 02:04:57 +0000",
+      "baked_potato": "2025-10-14 04:15:13 +0000",
+      "cooked_cod": "2025-10-17 03:43:15 +0000",
+      "bread": "2025-10-17 03:36:38 +0000",
+      "cooked_chicken": "2025-10-14 01:22:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-10-14 01:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-10-14 01:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-10-14 01:25:30 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:the_horror_has_arrived": {
+    "criteria": {
+      "the_horror_has_arrived": "2025-10-14 02:50:51 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:survived_the_nightmare": {
+    "criteria": {
+      "survived_the_nightmare": "2025-10-14 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "apollyon:back_to_hell": {
+    "criteria": {
+      "back_to_hell": "2025-10-14 03:09:21 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-10-14 03:17:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-10-14 04:12:52 +0000",
+      "opened_chest": "2025-10-14 03:17:28 +0000",
+      "opened_cart": "2025-10-17 06:01:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-10-14 03:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-10-14 03:17:33 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:pig": "2025-10-14 04:10:35 +0000",
+      "endofherobrine:sheep": "2025-10-14 04:10:42 +0000",
+      "endofherobrine:cow": "2025-10-14 04:08:56 +0000"
+    },
+    "done": false
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-10-14 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-10-14 04:12:56 +0000"
+    },
+    "done": true
+  },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2025-10-14 04:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-10-14 04:14:48 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:the_harbinger_of_catastrophe": {
+    "criteria": {
+      "the_harbinger_of_catastrophe": "2025-10-14 04:26:39 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:sweet_victory": {
+    "criteria": {
+      "sweet_victory": "2025-10-14 04:30:22 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-10-17 03:56:24 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-10-17 03:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-10-17 03:56:35 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-10-17 04:11:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-10-17 04:13:44 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:wings_of_the_omen": {
+    "criteria": {
+      "wings_of_the_omen": "2025-10-17 04:41:48 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:friday_the_13th": {
+    "criteria": {
+      "friday_the_13th": "2025-10-17 04:42:50 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:embrace_the_darkness": {
+    "criteria": {
+      "embrace_the_darkness": "2025-10-17 04:42:53 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:thriller": {
+    "criteria": {
+      "thriller": "2025-10-17 04:43:55 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:return_from_the_deads": {
+    "criteria": {
+      "return_from_the_deads": "2025-10-17 04:43:55 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:one_two_freddys_coming_for_you": {
+    "criteria": {
+      "one_two_freddys_coming_for_you": "2025-10-17 04:44:01 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:chainsaw_massacre": {
+    "criteria": {
+      "chainsaw_massacre": "2025-10-17 04:44:40 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:end_of_the_death": {
+    "criteria": {
+      "end_of_the_death": "2025-10-17 04:46:02 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:become_death": {
+    "criteria": {
+      "become_death": "2025-10-17 04:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-10-17 05:45:08 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-10-17 06:01:21 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:toxic_mixture": {
+    "criteria": {
+      "toxic_mixture": "2025-10-17 06:31:00 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-10-17 06:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-10-17 06:19:25 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:no_more_experiments": {
+    "criteria": {
+      "no_more_experiments": "2025-10-17 06:30:44 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:no_more_headache": {
+    "criteria": {
+      "no_more_headache": "2025-10-17 06:33:15 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-10-17 05:47:39 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
